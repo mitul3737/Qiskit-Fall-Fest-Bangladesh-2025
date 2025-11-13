@@ -14,7 +14,7 @@ This is a Quantum Computing community event supported by IBM Quantum
    
 **Livestream Link:** [YouTube](https://www.youtube.com/live/WSjR3ePZwZ4)
 
-6. Raghav Singla (Application Developer, IBM) : [Session Link](https://www.youtube.com/live/WSjR3ePZwZ4)
+6. Raghav Singla (Application Developer, IBM) : [Session Link](https://www.youtube.com/live/rf84rCYAVUs)
 
 
 
